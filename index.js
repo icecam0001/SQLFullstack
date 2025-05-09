@@ -1,1 +1,1 @@
-ajn
+const sequilize = require('sequelize')
